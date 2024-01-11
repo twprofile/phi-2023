@@ -1,26 +1,5 @@
 @import url('https://cdn.jsdelivr.net/gh/fxxk3rrth4ng/utils/fonts.css');
 
-body {
-	font-family: 'Pretendard JP Variable', 'Pretendard Variable' !important;
-	word-break: keep-all;
-}
-
-.info {
-	position: absolute;
-	margin:auto;
-
-	height: 25em;
-	top: 50%;
-	margin-top: -12.5em;
-
-	width: 25em;
-	left: 50%;
-	margin-left: -25vw;
-}
-
-.info {
-	padding-left: 2em;
-	padding-top: 1em;
-	border: 1px solid #000;
-	border-radius: 2em;
+#text01, #text03, #text04, #text05 {
+    font-family: 'Pretendard Variable' !important;
 }
